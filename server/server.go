@@ -17,8 +17,8 @@ package server
 import (
 	"errors"
 	"fmt"
-	"github.com/rsrdesarrollo/SaSSHimi/common"
-	"github.com/rsrdesarrollo/SaSSHimi/utils"
+	"github.com/kkontosis/SaSSHimi/common"
+	"github.com/kkontosis/SaSSHimi/utils"
 	"github.com/spf13/viper"
 	"golang.org/x/crypto/ssh"
 	"golang.org/x/crypto/ssh/terminal"

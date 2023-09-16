@@ -17,8 +17,8 @@ package agent
 import (
 	"github.com/armon/go-socks5"
 	"github.com/elazarl/goproxy"
-	"github.com/rsrdesarrollo/SaSSHimi/common"
-	"github.com/rsrdesarrollo/SaSSHimi/utils"
+	"github.com/kkontosis/SaSSHimi/common"
+	"github.com/kkontosis/SaSSHimi/utils"
 	"log"
 	"net"
 	"net/http"

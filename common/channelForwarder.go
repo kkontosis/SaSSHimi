@@ -2,7 +2,7 @@ package common
 
 import (
 	"encoding/gob"
-	"github.com/rsrdesarrollo/SaSSHimi/utils"
+	"github.com/kkontosis/SaSSHimi/utils"
 	"io"
 	"sync"
 	"time"

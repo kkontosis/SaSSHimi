@@ -15,7 +15,7 @@
 package common
 
 import (
-	"github.com/rsrdesarrollo/SaSSHimi/utils"
+	"github.com/kkontosis/SaSSHimi/utils"
 	"net"
 	"sync"
 )

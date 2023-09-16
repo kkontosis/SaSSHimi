@@ -16,7 +16,7 @@ package cli
 
 import (
 	"fmt"
-	"github.com/rsrdesarrollo/SaSSHimi/version"
+	"github.com/kkontosis/SaSSHimi/version"
 	"github.com/spf13/cobra"
 )
 
