@@ -1,4 +1,4 @@
-module github.com/rsrdesarrollo/SaSSHimi
+module github.com/kkontosis/SaSSHimi
 
 go 1.18
 
