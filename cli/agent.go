@@ -15,7 +15,7 @@
 package cli
 
 import (
-	"github.com/rsrdesarrollo/SaSSHimi/agent"
+	"github.com/kkontosis/SaSSHimi/agent"
 	"github.com/spf13/cobra"
 )
 
